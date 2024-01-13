@@ -1,4 +1,4 @@
-![Auto Assign](https://github.com/CodeCare/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+![Auto Assign]([https://github.com/CodeCare/demo-repository/actions/workflows/auto-assign.yml/badge.svg](https://github.com/Project-CodeCare/demo-repository/blob/main/.github/workflows/auto-assign.yml))
 
 ![Proof HTML](https://github.com/CodeCare/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
